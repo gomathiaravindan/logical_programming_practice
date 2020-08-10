@@ -1,0 +1,8 @@
+#define PI 3.14
+
+#include<stdio.h>
+int main()
+{
+	int rad;
+	printf("%f", PI * rad * rad,scanf("%d",&rad));
+}
