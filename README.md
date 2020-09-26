@@ -1,4 +1,4 @@
-![Link an image](C:\Users\GOMATHI A\Downloads)
+![C:\Users\GOMATHI A\Downloads]
 
 
 
