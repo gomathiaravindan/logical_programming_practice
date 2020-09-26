@@ -1,6 +1,4 @@
-![C:\Users\GOMATHI A\Downloads]
-
-
+![https://www.clipartkey.com/view/Jxiomh_c-programming-logo/]
 
 #### Logical_programming_practice
 #### Practicing to develop my logical coding skills
